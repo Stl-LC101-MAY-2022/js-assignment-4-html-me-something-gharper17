@@ -39,6 +39,9 @@ h4 {
   color: rgb(255, 255, 255);
   text-align: center;
 }
-.mainHeading{
+#mainHeading{
   color: red;
+}
+.funParagraph{
+  color: green; 
 }
